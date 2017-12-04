@@ -8,7 +8,7 @@ The .workflow file is a simple bash script, wrapped with Automator, to create a 
 
 ## Installation
 ### Manual Install
-Download and decompress the [ZIP archive](https://github.com/mlsteiner/arkhive/releases/download/), then double-click the resulting `.workflow` file to initiate the installation process.
+Download and decompress the [ZIP archive](https://github.com/mlsteiner/arkhive/releases/), then double-click the resulting `.workflow` file to initiate the installation process.
 
 The Operating System will prompt you for permission to move the file to the correct location [ \~/Library/Services/ ]. Once installed its functionality is available immediately.
 
@@ -17,4 +17,4 @@ The Operating System will prompt you for permission to move the file to the corr
 Selecting `Arkhive` from the 'Services' submenu with a *file* highlighted in the Finder will mark it as the file to preserve, and move all other InDesign and Illustrator files in the same folder to the 'Archived' folder.
 
 ### Working with Folders
-Selecting `Arkhive` from the 'Services' submenu with a *Folder* highlighted in the Finder will mark the most recently modified file within that folder as the file to preserve, and move all other InDesign and Illustrator files to the 'Archived' folder
+Selecting `Arkhive` from the 'Services' submenu with a *Folder* highlighted in the Finder will mark the most recently modified file within that folder as the file to preserve, and move all other InDesign and Illustrator files to the 'Archived' folder.
