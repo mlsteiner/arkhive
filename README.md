@@ -8,7 +8,7 @@ The .workflow file is a simple bash script, wrapped with Automator, to create a 
 
 ## Installation
 ### Manual Install
-Download and decompress the ZIP archive, then double-click the resulting `.workflow` file to initiate the installation process.
+Download and decompress the [ZIP archive](https://github.com/mlsteiner/arkhive/releases/download/), then double-click the resulting `.workflow` file to initiate the installation process.
 
 The Operating System will prompt you for permission to move the file to the correct location [ \~/Library/Services/ ]. Once installed its functionality is available immediately.
 
