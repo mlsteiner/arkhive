@@ -1,1 +1,1 @@
-linguist-language=Bash
+*.workflow linguist-language=Bash
